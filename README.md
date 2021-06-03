@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpcutshall
 - 👀 I’m interested in Software development and making our lives easier with software.
 - 🌱 I’m currently learning to be a fullstack developer
-- 💞️ I’m looking to collaborate on any projects in Java, JS, Python, or c++
+- 💞️ I’m looking to collaborate on any projects in Typescript, Javascript, Python, or C++
 - 📫 How to reach me - Reach me on LinkedIn or by email jpcutshall@gmail.com/https://www.linkedin.com/in/jpcutshall/
 
 <!---
